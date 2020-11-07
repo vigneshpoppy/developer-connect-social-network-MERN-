@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://poppy:0000@mern.kzdzs.mongodb.net/test?retryWrites=true&w=majority",
+  "jwttoken": "jwtsecret"
+}
